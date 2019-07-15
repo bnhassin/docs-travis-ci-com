@@ -1,0 +1,4 @@
+{"script":"echo'Hollo,World'"}
+git fetch origin
+git checkout -b bnhassin-patch-1 origin/bnhassin-patch-1
+git merge contribute
