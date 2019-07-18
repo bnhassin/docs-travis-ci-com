@@ -1,0 +1,2 @@
+git checkout -b travis-ci-master master
+git pull git://github.com/travis-ci/docs-travis-ci-com.git master
