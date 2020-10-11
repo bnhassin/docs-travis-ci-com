@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "12.13"
+
+deploy:
+  provider: npm
+  email: "bnhassin@gmail.com"
+  api_key: "65fc0a0e-945f-4fc8-b175-e353be989d96"
